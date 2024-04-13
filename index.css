@@ -1,0 +1,56 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.main{
+    margin-top: 90px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 500px;
+    height: 600px;
+}
+
+.first{
+    margin: 60px 20px 10px 20px;
+}
+
+.all{
+    margin: 0 20px 10px 20px;
+}
+
+.btnpd{
+    width: 438px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.btnpd:hover {
+  opacity: 1;
+}
+
+.qbtn{
+    border-radius: 20px;
+    height: 20px;
+    width: 10px;
+}
+
+.mybtn{
+    margin-left: 0;
+    padding-left: 0;
+    border: 0;
+    background-color: white;
+}
+
+.popover{
+    background: #234263;
+}
+
+.popover-body{
+    color: white;
+}
+
+small{
+    background-color: white;
+    color: rgb(205, 2, 2);
+}
